@@ -1,8 +1,14 @@
 /*  your css code here. If applicable */
-#navbar{
-	display:inline;
-	list-style:none;
-	background-color: #D3D3D3;
-	
-	
+.second {
+    /* border: 1px solid aqua; */
+    display: block;
+    width: 33%;
+    margin: 20px auto;
+    top: 20px;
+    padding: 20px ;
+    /* display: inline-block; */
+}
+.navbar{
+display: inline-block;
+list-style:none ; 
 }
