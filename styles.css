@@ -8,9 +8,9 @@
 /*     display: inline-block;  */
 }
 .navbar li{
-	display:flex;
-display: inline-block;
-list-style:none ;
-padding: 10px ;
-	margin-right: 1rem;  
+   display:flex;
+   display: inline-block;
+   list-style: none;
+  padding: 10px;
+   margin-right: 1rem;  
 }
