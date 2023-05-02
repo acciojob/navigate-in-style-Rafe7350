@@ -1,17 +1,15 @@
 /*  your css code here. If applicable */
 .container{
-    /* border: 1px solid aqua; */
 	background-color: #D3D3D3;
     display: block;
-   width:100%;
+     width:100%;
 	 padding: 10px; 
-	
-/*     display: inline-block;  */
+	 display:flex;
+   display: inline-block;
 }
 .navbar li{
-   display:flex;
-   display: inline-block;
+/*    display:flex;
+   display: inline-block; */
    list-style: none;
-/*   padding: 10px; */
    margin-right: 1rem;  
 }
