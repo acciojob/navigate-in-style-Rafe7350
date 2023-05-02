@@ -1,14 +1,15 @@
 /*  your css code here. If applicable */
 .second {
     /* border: 1px solid aqua; */
+	background-color: #D3D3D3;
     display: block;
-    width: 33%;
-    margin: 20px auto;
-    top: 20px;
-    padding: 20px ;
-    /* display: inline-block; */
+   width:100%;
+	
+    display: inline-block; 
 }
-.navbar{
+.navbar li{
 display: inline-block;
-list-style:none ; 
+list-style:none ;
+padding: 10px ;
+	margin-right: 1rem;  
 }
