@@ -1,13 +1,14 @@
 /*  your css code here. If applicable */
-.second {
+.container{
     /* border: 1px solid aqua; */
 	background-color: #D3D3D3;
     display: block;
    width:100%;
 	
-    display: inline-block; 
+/*     display: inline-block;  */
 }
 .navbar li{
+	display:flex;
 display: inline-block;
 list-style:none ;
 padding: 10px ;
